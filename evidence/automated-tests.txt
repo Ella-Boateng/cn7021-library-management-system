@@ -1,0 +1,39 @@
+Built dist/library-management.jar
+Library Management System automated test evidence
+Execution time: 2026-09-19T23:47:10.949132Z
+Java runtime: 22
+OS: Mac OS X aarch64
+Business date fixed at 2026-09-19 for reproducible date assertions.
+T01 | PASS | New store starts empty
+T02 | PASS | Add book trims fields and assigns ID
+T03 | PASS | Reject blank title and author
+T04 | PASS | Reject invalid copy counts
+T05 | PASS | Reject duplicate book regardless of case
+T06 | PASS | Search title author and ID without case sensitivity
+T07 | PASS | Add copies updates availability with bounds
+T08 | PASS | Register member and normalise email
+T09 | PASS | Reject blank name and malformed email
+T10 | PASS | Reject duplicate email regardless of case
+T11 | PASS | Issue loan sets due date and reduces availability
+T12 | PASS | Reject lending unavailable book
+T13 | PASS | Reject unknown book and member
+T14 | PASS | Reject a second active loan of the same title
+T15 | PASS | Enforce three active loans per member
+T16 | PASS | Return restores stock and preserves history
+T17 | PASS | Reject repeated return and unknown loan
+T18 | PASS | Returned title can be borrowed again with a new ID
+T19 | PASS | Overdue starts the day after due date
+T20 | PASS | Returned loan stays returned after due date
+T21 | PASS | Persist and reload books members and active loans
+T22 | PASS | Reload return history and continue unique IDs
+T23 | PASS | Unicode punctuation and accents round trip
+T24 | PASS | Reject corrupt header without rewriting file
+T25 | PASS | Reject invalid encoded record
+T26 | PASS | Reject orphan loan reference
+T27 | PASS | Reject duplicate persisted IDs
+T28 | PASS | Failed save leaves service state unchanged
+T29 | PASS | Reject control characters and oversized text
+T30 | PASS | Snapshot lists cannot be mutated by callers
+T31 | PASS | Reject return when system date is before issue date
+T32 | PASS | Backup copy reloads to the identical state
+RESULT: 32 passed; 0 failed; 32 total.

@@ -1,0 +1,2 @@
+UI01 | PASS | All three tabs render with realistic fictional records
+UI02 | PASS | Book and member searches filter visible tables by text and ID
