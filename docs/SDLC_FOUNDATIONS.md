@@ -22,6 +22,10 @@ The application is deployed locally through an executable Java archive and a lau
 
 # References
 
+Arakkal, D. (n.d.) Using the Library. Lancaster University Ghana. Available at:
+
+[https://lancaster.edu.gh/library/using-the-library/](https://lancaster.edu.gh/library/using-the-library/)
+
 CN7021 (n.d.) WEEK 10 Topic Overview. Advanced Software Engineering, Experiment III, p. 6. Course handout.
 
 Jackson, G., Holdsworth, J. and Kosinski, M. (n.d.) What is the software development life cycle (SDLC)? IBM. Available at:

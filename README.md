@@ -33,6 +33,8 @@ The first command runs the 32 service and storage tests. The second runs graphic
 | Location | Contents |
 | --- | --- |
 | docs/SDLC_FOUNDATIONS.md | SDLC learning and references |
+| docs/INFORMATION_GATHERING.md | Published library policy and requirements decisions |
+| docs/MILESTONES.md | Dated deliverables and release evidence |
 | docs/SRS.md | Requirements, business rules and use cases |
 | docs/DESIGN.md | Architecture, data model and diagram sources |
 | docs/TESTING.md | Verification strategy, coverage and recorded results |

@@ -6,7 +6,7 @@ A small library needs a consistent way to record its catalogue, readers and lend
 
 ## Stakeholders and elicitation
 
-The librarian is the direct user. Members are the people whose borrowing is recorded; they do not log into the application. Requirements were derived through scenario analysis of catalogue management, registration, lending and returns. The elicitation method is scenario analysis; field interviews and surveys are outside the scope of this study.
+The librarian is the direct user. Members are the people whose borrowing is recorded; they do not log into the application. Initial requirements were derived through scenario analysis of catalogue management, registration, lending and returns. A subsequent desk review of published library guidance supports the borrowing limits and loan-tracking requirements, as documented in Information gathering and requirements evidence. No field interviews or surveys were conducted.
 
 Before deployment in a real library, a workshop with the librarian should confirm the lending period, borrowing limit, information collected, backup responsibility and handling of lost books. A short prototype demonstration should then check that the screen flow fits the librarian’s work.
 
