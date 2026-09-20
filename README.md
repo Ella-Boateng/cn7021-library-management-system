@@ -1,6 +1,6 @@
 # Library Management System
 
-CN7021 Advanced Software Engineering — Experiment III
+CN7021 Advanced Software Engineering, Experiment III
 
 A single-user Java desktop application for catalogue management, member registration, lending, returns and loan history.
 
